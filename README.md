@@ -1,4 +1,4 @@
-# Hola, soy Iago Varela Rodríguez 👋
+# Hola, soy Iago Varela
 
 Soy estudiante de Inteligencia Artificial en la USC, interesado en Python, machine learning y visión por computador.
 
