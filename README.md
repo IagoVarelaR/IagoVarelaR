@@ -1,6 +1,6 @@
 # Hola, soy Lago Varela Rodríguez 👋
 
-Soy estudiante de Inteligencia Artificial en la USC, interesado en Python, machine learning y visión por computadora.
+Soy estudiante de Inteligencia Artificial en la USC, interesado en Python, machine learning y visión por computador.
 
 ## Sobre mí
 Actualmente estoy construyendo proyectos para mejorar mis habilidades en IA y desarrollar un portafolio sólido en tecnología.
