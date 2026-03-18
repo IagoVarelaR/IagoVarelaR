@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Lago Varela Rodríguez 👋
 
-<!--
-**IagoVarelaR/IagoVarelaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Inteligencia Artificial en la USC, interesado en Python, machine learning y visión por computadora.
 
-Here are some ideas to get you started:
+## Sobre mí
+Actualmente estoy construyendo proyectos para mejorar mis habilidades en IA y desarrollar un portafolio sólido en tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- Python
+- Machine Learning
+- Computer Vision
+- Git y GitHub, Hugging Face
+
+## Objetivo
+Seguir aprendiendo, crear proyectos útiles y aplicar la inteligencia artificial a problemas reales.
